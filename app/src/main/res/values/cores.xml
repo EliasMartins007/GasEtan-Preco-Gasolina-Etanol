@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CORES EM HEXA-DECIMAL -->
+    <!-- fonte : http://respostas.guj.com.br/27007-mudar-a-cor-de-edittext -->
+    <!-- fonte de cores hexadecimal : http://erikasarti.com/html/tabela-cores/ -->
+
+    <color name="verde">#00FF7F</color>
+    <color name="amarelo">#FFFF00</color>
+    <color name="vermelho">#FF0000</color>
+    <color name="cinzaPadrao">#d3d3d3</color>
+    <color name="azulEscuro">#00008b</color>
+
+</resources>
